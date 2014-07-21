@@ -1,0 +1,25 @@
+#+TITLE: 开源著作一览
+#+AUTHOR: amoblin
+#+EMAIL: amoblin@gmail.com
+#+DATE: 2014-07-21 11:27:08
+#+OPTIONS: ^:{}
+
+
+| 名称                               | 作者、译者                     | 地址                                                                  | 在线阅读地址                                     |
+|------------------------------------+--------------------------------+-----------------------------------------------------------------------+--------------------------------------------------|
+| Go Web 编程                        | astaxie                        | https://github.com/astaxie/build-web-application-with-golang          |                                                  |
+| 七天学会NodeJS                     | nqdeng                         | https://github.com/nqdeng/7-days-nodejs                               |                                                  |
+| C++ 并发编程指南                   | forhappy                       | https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial |                                                  |
+| PHP之道                            | wulijun                        | https://github.com/wulijun/php-the-right-way                          |                                                  |
+| Go编程基础                         | Unknwon                        | https://github.com/Unknwon/go-fundamental-programming                 |                                                  |
+| Go入门指南                         | Unknwon                        | https://github.com/Unknwon/the-way-to-go_ZH_CN                        |                                                  |
+| Redis 设计与实现                   | huangz1990                     | https://github.com/huangz1990/redisbook                               |                                                  |
+| 中文版 Apple 官方 Swift 教程       |                                | https://github.com/numbbbbb/the-swift-programming-language-in-chinese |                                                  |
+| Redis 设计与实现(第一版)           | 黄健宏                         | https://github.com/huangz1990/redisbook                               |                                                  |
+| Redis Command Reference中文版      | 黄健宏                         | https://github.com/huangz1990/redis                                   |                                                  |
+| SICP 解题集                        | 黄健宏                         | https://github.com/huangz1990/SICP-answers                            | http://sicp.readthedocs.org/                     |
+| Nginx开发从入门到精通              | taobao                         | https://github.com/taobao/nginx-book                                  | http://tengine.taobao.org/book/index.html        |
+| JavaScript 秘密花园                | Ivo Wetzel(写作)和张易江(设计) | https://github.com/BonsaiDen/JavaScript-Garden                        | http://bonsaiden.github.io/JavaScript-Garden/zh/ |
+| 数据结构和算法教程 OpenDSA(英文版) |                                | https://github.com/OpenDSA/OpenDSA                                    | http://algoviz.org/OpenDSA/                      |
+| The Nature of Code                 |                                | https://github.com/shiffman/The-Nature-of-Code                        | http://natureofcode.com/                         |
+
