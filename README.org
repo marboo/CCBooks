@@ -25,6 +25,7 @@
 | [[ http://natureofcode.com/][The Nature of Code]]                 |                                | https://github.com/shiffman/The-Nature-of-Code                        |
 | Backbone.js入门教程第二版          | the5fire                       | https://github.com/the5fire/backbonejs-learning-note                  |
 | Django 最佳实践                    | brantyoung                     | https://github.com/brantyoung/zh-django-best-practices                |
+| In the Cloud(一本云计算入门手册)   | lofyer                         | https://github.com/lofyer/InTheCloud                                  |
 |                                    |                                |                                                                       |
 * 离线阅读
 
