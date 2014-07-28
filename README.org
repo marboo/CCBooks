@@ -24,9 +24,18 @@
 | [[ http://natureofcode.com/][The Nature of Code]]                 |                                | https://github.com/shiffman/The-Nature-of-Code                        |
 | [[http://yuedu.baidu.com/ebook/b7f0eaa44afe04a1b171de01][Backbone.js入门教程第二版]]          | the5fire                       | https://github.com/the5fire/backbonejs-learning-note                  |
 | [[https://github.com/brantyoung/zh-django-best-practices/blob/master/readme.rst/][Django 最佳实践]]                    | brantyoung                     | https://github.com/brantyoung/zh-django-best-practices                |
-| In the Cloud(一本云计算入门手册)   | lofyer                         | https://github.com/lofyer/InTheCloud                                  |
+| [[http://inthecloud.readthedocs.org/][In the Cloud(一本云计算入门手册)]] | lofyer                         | https://github.com/lofyer/InTheCloud                                  |
 
 * 离线阅读
+
+把地址clone到Marboo目录下，即可在Marboo中离线阅读 :)
+Marboo Mac App Store下载地址：<https://itunes.apple.com/cn/app/marboo/id880375426?mt=12>
+
+#+BEGIN_SRC sh
+mkdir ~/Marboo/CC-Books
+git clone https://github.com/astaxie/build-web-application-with-golang ~/Marboo/CC-Books
+#+END_SRC
+
 
 [[./images/backbone.js.png]]
 [[./images/go.png]]
@@ -36,14 +45,7 @@
 [[./images/objcio.png]]
 [[./images/swift.png]]
 
-把地址clone到Marboo目录下，即可在Marboo中离线阅读 :)
-
-#+BEGIN_SRC sh
-mkdir ~/Marboo/CC-Books
-git clone https://github.com/astaxie/build-web-application-with-golang ~/Marboo/CC-Books
-#+END_SRC
-
 * References
-- https://github.com/PlayTimeline/iS_free_book
 - http://www.oschina.net/project/tag/400/opensource-book
+- https://github.com/PlayTimeline/iS_free_book
 - http://www.gitchina.org/industry-information/%E5%85%8D%E8%B4%B9%E7%9A%84%E7%BC%96%E7%A8%8B%E4%B8%AD%E6%96%87%E4%B9%A6%E7%B1%8D%E7%B4%A2%E5%BC%95.html
