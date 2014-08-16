@@ -16,6 +16,7 @@
 | [[https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/preface.md][Go入门指南]]                         | Unknwon                        | https://github.com/Unknwon/the-way-to-go_ZH_CN                        |
 | [[http://origin.redisbook.com/en/latest/][Redis 设计与实现]]                   | 黄建宏                         | https://github.com/huangz1990/redisbook                               |
 | [[http://numbbbbb.gitbooks.io/-the-swift-programming-language-/][中文版 Apple 官方 Swift 教程]]       |                                | https://github.com/numbbbbb/the-swift-programming-language-in-chinese |
+| [[http://nshipster.cn/][NSHipster中文版]]                    |                                | https://github.com/NSHipster/nshipster.com                            |
 | [[http://www.redisdoc.com/en/latest/][Redis Command Reference中文版]]      | 黄健宏                         | https://github.com/huangz1990/redis                                   |
 | [[http://sicp.readthedocs.org/][SICP 解题集]]                        | 黄健宏                         | https://github.com/huangz1990/SICP-answers                            |
 | [[http://tengine.taobao.org/book/index.html][Nginx开发从入门到精通]]              | taobao                         | https://github.com/taobao/nginx-book                                  |
@@ -24,7 +25,8 @@
 | [[ http://natureofcode.com/][The Nature of Code]]                 |                                | https://github.com/shiffman/The-Nature-of-Code                        |
 | [[http://yuedu.baidu.com/ebook/b7f0eaa44afe04a1b171de01][Backbone.js入门教程第二版]]          | the5fire                       | https://github.com/the5fire/backbonejs-learning-note                  |
 | [[https://github.com/brantyoung/zh-django-best-practices/blob/master/readme.rst/][Django 最佳实践]]                    | brantyoung                     | https://github.com/brantyoung/zh-django-best-practices                |
-| [[http://inthecloud.readthedocs.org/][In the Cloud(一本云计算入门手册)]] | lofyer                         | https://github.com/lofyer/InTheCloud                                  |
+| [[http://inthecloud.readthedocs.org/][In the Cloud(一本云计算入门手册)]]   | lofyer                         | https://github.com/lofyer/InTheCloud                                  |
+| [[http://www.phptherightway.com/][PHP: The Right Way]]                 |                                | https://github.com/codeguy/php-the-right-way                          |
 
 * 离线阅读
 
