@@ -4,8 +4,6 @@
 #+DATE: 2014-07-21 11:27:08
 #+OPTIONS: ^:{}
 
-
-
 | 名称                               | 作者、译者                     | 地址                                                                  |
 |------------------------------------+--------------------------------+-----------------------------------------------------------------------|
 | [[https://github.com/astaxie/build-web-application-with-golang/blob/master/ebook/preface.md][Go Web 编程]]                        | astaxie                        | https://github.com/astaxie/build-web-application-with-golang          |
@@ -27,6 +25,7 @@
 | [[https://github.com/brantyoung/zh-django-best-practices/blob/master/readme.rst/][Django 最佳实践]]                    | brantyoung                     | https://github.com/brantyoung/zh-django-best-practices                |
 | [[http://inthecloud.readthedocs.org/][In the Cloud(一本云计算入门手册)]]   | lofyer                         | https://github.com/lofyer/InTheCloud                                  |
 | [[http://www.phptherightway.com/][PHP: The Right Way]]                 |                                | https://github.com/codeguy/php-the-right-way                          |
+| [[https://github.com/royguo/ml_hackers/blob/master/list.md][Machine Learning For Hackers中文版]] |                                | https://github.com/royguo/ml_hackers                                  |
 
 * 离线阅读
 
