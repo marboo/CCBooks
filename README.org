@@ -4,28 +4,30 @@
 #+DATE: 2014-07-21 11:27:08
 #+OPTIONS: ^:{}
 
-| 名称                               | 作者、译者                     | 地址                                                                  |
-|------------------------------------+--------------------------------+-----------------------------------------------------------------------|
-| [[https://github.com/astaxie/build-web-application-with-golang/blob/master/ebook/preface.md][Go Web 编程]]                        | astaxie                        | https://github.com/astaxie/build-web-application-with-golang          |
-| [[http://nqdeng.github.io/7-days-nodejs/][七天学会NodeJS]]                     | nqdeng                         | https://github.com/nqdeng/7-days-nodejs                               |
-| [[https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial/blob/master/Table-of-contents.md][C++ 并发编程指南]]                   | forhappy                       | https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial |
-| [[http://wulijun.github.io/php-the-right-way/][PHP之道]]                            | wulijun                        | https://github.com/wulijun/php-the-right-way                          |
-| Go编程基础                         | Unknwon                        | https://github.com/Unknwon/go-fundamental-programming                 |
-| [[https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/preface.md][Go入门指南]]                         | Unknwon                        | https://github.com/Unknwon/the-way-to-go_ZH_CN                        |
-| [[http://origin.redisbook.com/en/latest/][Redis 设计与实现]]                   | 黄建宏                         | https://github.com/huangz1990/redisbook                               |
-| [[http://numbbbbb.gitbooks.io/-the-swift-programming-language-/][中文版 Apple 官方 Swift 教程]]       |                                | https://github.com/numbbbbb/the-swift-programming-language-in-chinese |
-| [[http://nshipster.cn/][NSHipster中文版]]                    |                                | https://github.com/NSHipster/nshipster.com                            |
-| [[http://www.redisdoc.com/en/latest/][Redis Command Reference中文版]]      | 黄健宏                         | https://github.com/huangz1990/redis                                   |
-| [[http://sicp.readthedocs.org/][SICP 解题集]]                        | 黄健宏                         | https://github.com/huangz1990/SICP-answers                            |
-| [[http://tengine.taobao.org/book/index.html][Nginx开发从入门到精通]]              | taobao                         | https://github.com/taobao/nginx-book                                  |
-| [[ http://bonsaiden.github.io/JavaScript-Garden/zh/][JavaScript 秘密花园]]                | Ivo Wetzel(写作)和张易江(设计) | https://github.com/BonsaiDen/JavaScript-Garden                        |
-| [[http://algoviz.org/OpenDSA/][数据结构和算法教程 OpenDSA(英文版)]] |                                | https://github.com/OpenDSA/OpenDSA                                    |
-| [[ http://natureofcode.com/][The Nature of Code]]                 |                                | https://github.com/shiffman/The-Nature-of-Code                        |
-| [[http://yuedu.baidu.com/ebook/b7f0eaa44afe04a1b171de01][Backbone.js入门教程第二版]]          | the5fire                       | https://github.com/the5fire/backbonejs-learning-note                  |
-| [[https://github.com/brantyoung/zh-django-best-practices/blob/master/readme.rst/][Django 最佳实践]]                    | brantyoung                     | https://github.com/brantyoung/zh-django-best-practices                |
-| [[http://inthecloud.readthedocs.org/][In the Cloud(一本云计算入门手册)]]   | lofyer                         | https://github.com/lofyer/InTheCloud                                  |
-| [[http://www.phptherightway.com/][PHP: The Right Way]]                 |                                | https://github.com/codeguy/php-the-right-way                          |
-| [[https://github.com/royguo/ml_hackers/blob/master/list.md][Machine Learning For Hackers中文版]] |                                | https://github.com/royguo/ml_hackers                                  |
+| 名称                               | 作者、译者、发起者             | 地址                                                                  | 程序语言    |
+|------------------------------------+--------------------------------+-----------------------------------------------------------------------+-------------|
+| [[https://github.com/astaxie/build-web-application-with-golang/blob/master/ebook/preface.md][Go Web 编程]]                        | astaxie                        | https://github.com/astaxie/build-web-application-with-golang          | Go          |
+| [[http://nqdeng.github.io/7-days-nodejs/][七天学会NodeJS]]                     | nqdeng                         | https://github.com/nqdeng/7-days-nodejs                               | Node.js     |
+| [[https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial/blob/master/Table-of-contents.md][C++ 并发编程指南]]                   | forhappy                       | https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial | C++         |
+| [[http://wulijun.github.io/php-the-right-way/][PHP之道]]                            | wulijun                        | https://github.com/wulijun/php-the-right-way                          | PHP         |
+| Go编程基础                         | Unknwon                        | https://github.com/Unknwon/go-fundamental-programming                 | Go          |
+| [[https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/preface.md][Go入门指南]]                         | Unknwon                        | https://github.com/Unknwon/the-way-to-go_ZH_CN                        | Go          |
+| [[http://origin.redisbook.com/en/latest/][Redis 设计与实现]]                   | 黄建宏                         | https://github.com/huangz1990/redisbook                               |             |
+| [[http://numbbbbb.gitbooks.io/-the-swift-programming-language-/][中文版 Apple 官方 Swift 教程]]       |                                | https://github.com/numbbbbb/the-swift-programming-language-in-chinese | Swift       |
+| [[http://nshipster.cn/][NSHipster中文版]]                    |                                | https://github.com/NSHipster/nshipster.com                            | Obejctive-C |
+| [[http://www.redisdoc.com/en/latest/][Redis Command Reference中文版]]      | 黄健宏                         | https://github.com/huangz1990/redis                                   |             |
+| [[http://sicp.readthedocs.org/][SICP 解题集]]                        | 黄健宏                         | https://github.com/huangz1990/SICP-answers                            |             |
+| [[http://tengine.taobao.org/book/index.html][Nginx开发从入门到精通]]              | taobao                         | https://github.com/taobao/nginx-book                                  | Javascript  |
+| [[ http://bonsaiden.github.io/JavaScript-Garden/zh/][JavaScript 秘密花园]]                | Ivo Wetzel(写作)和张易江(设计) | https://github.com/BonsaiDen/JavaScript-Garden                        |             |
+| [[http://algoviz.org/OpenDSA/][数据结构和算法教程 OpenDSA(英文版)]] |                                | https://github.com/OpenDSA/OpenDSA                                    |             |
+| [[ http://natureofcode.com/][The Nature of Code]]                 |                                | https://github.com/shiffman/The-Nature-of-Code                        | Javascript  |
+| [[http://yuedu.baidu.com/ebook/b7f0eaa44afe04a1b171de01][Backbone.js入门教程第二版]]          | the5fire                       | https://github.com/the5fire/backbonejs-learning-note                  | Python      |
+| [[https://github.com/brantyoung/zh-django-best-practices/blob/master/readme.rst/][Django 最佳实践]]                    | brantyoung                     | https://github.com/brantyoung/zh-django-best-practices                |             |
+| [[http://inthecloud.readthedocs.org/][In the Cloud(一本云计算入门手册)]]   | lofyer                         | https://github.com/lofyer/InTheCloud                                  |             |
+| [[http://www.phptherightway.com/][PHP: The Right Way]]                 |                                | https://github.com/codeguy/php-the-right-way                          | PHP         |
+| [[https://github.com/royguo/ml_hackers/blob/master/list.md][Machine Learning For Hackers中文版]] | royguo                         | https://github.com/royguo/ml_hackers                                  |             |
+| [[http://git-scm.com/book/][Pro Git]]                            |                                | https://github.com/progit/progit                                      | Git         |
+| [[http://gitbook.liuhui998.com/][Git Community Book 中文版]]          | liuhui                         | https://github.com/liuhui998/gitbook                                  | Git         |
 
 * 离线阅读
 
