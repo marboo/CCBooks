@@ -13,6 +13,7 @@
 | [[http://nqdeng.github.io/7-days-nodejs/][七天学会NodeJS]]                     | nqdeng                         | https://github.com/nqdeng/7-days-nodejs                               | Node.js     |
 | [[ http://bonsaiden.github.io/JavaScript-Garden/zh/][JavaScript 秘密花园]]                | Ivo Wetzel(写作)和张易江(设计) | https://github.com/BonsaiDen/JavaScript-Garden                        | Javascript  |
 | [[http://yuedu.baidu.com/ebook/b7f0eaa44afe04a1b171de01][Backbone.js入门教程第二版]]          | the5fire                       | https://github.com/the5fire/backbonejs-learning-note                  | Javascript  |
+| [[https://leanpub.com/javascript-allonge/read][JavaScript Allongé]]                 | raganwald                      | https://github.com/raganwald/javascript-allonge                       | Javascript  |
 | [[http://numbbbbb.gitbooks.io/-the-swift-programming-language-/][中文版 Apple 官方 Swift 教程]]       |                                | https://github.com/numbbbbb/the-swift-programming-language-in-chinese | Swift       |
 | [[http://nshipster.cn/][NSHipster中文版]]                    |                                | https://github.com/NSHipster/nshipster.com                            | Obejctive-C |
 | [[http://wulijun.github.io/php-the-right-way/][PHP之道]]                            | wulijun                        | https://github.com/wulijun/php-the-right-way                          | PHP         |
@@ -29,6 +30,7 @@
 | [[http://inthecloud.readthedocs.org/][In the Cloud(一本云计算入门手册)]]   | lofyer                         | https://github.com/lofyer/InTheCloud                                  |             |
 | [[https://github.com/royguo/ml_hackers/blob/master/list.md][Machine Learning For Hackers中文版]] | royguo                         | https://github.com/royguo/ml_hackers                                  |             |
 | [[http://softwaredownload.gitbooks.io/openwrt-fanqiang/][OpenWrt教程]]                        |                                | https://github.com/softwaredownload/openwrt-fanqiang                  |             |
+| [[http://yeasy.gitbooks.io/docker_practice/content/][Docker —— 从入门到实践]]             | [[https://github.com/yeasy][yeasy]]                          | https://github.com/yeasy/docker_practice                              |             |
 * 离线阅读
 
 把地址clone到Marboo目录下，即可在Marboo中离线阅读 :)
