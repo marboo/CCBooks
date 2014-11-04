@@ -6,6 +6,8 @@
 
 | 名称                               | 作者、译者、发起者             | 地址                                                                  | 程序语言    |
 |------------------------------------+--------------------------------+-----------------------------------------------------------------------+-------------|
+| [[http://www.widuu.com/chinese_docker/index.html][Docker中文指南]]                     | [[https://github.com/widuu][widuu]]                          | https://github.com/widuu/chinese_docker                               |             |
+| [[http://yeasy.gitbooks.io/docker_practice/content/][Docker —— 从入门到实践]]             | [[https://github.com/yeasy][yeasy]]                          | https://github.com/yeasy/docker_practice                              |             |
 | [[https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial/blob/master/Table-of-contents.md][C++ 并发编程指南]]                   | forhappy                       | https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial | C++         |
 | [[https://github.com/astaxie/build-web-application-with-golang/blob/master/ebook/preface.md][Go Web 编程]]                        | astaxie                        | https://github.com/astaxie/build-web-application-with-golang          | Go          |
 | Go编程基础                         | Unknwon                        | https://github.com/Unknwon/go-fundamental-programming                 | Go          |
@@ -30,7 +32,6 @@
 | [[http://inthecloud.readthedocs.org/][In the Cloud(一本云计算入门手册)]]   | lofyer                         | https://github.com/lofyer/InTheCloud                                  |             |
 | [[https://github.com/royguo/ml_hackers/blob/master/list.md][Machine Learning For Hackers中文版]] | royguo                         | https://github.com/royguo/ml_hackers                                  |             |
 | [[http://softwaredownload.gitbooks.io/openwrt-fanqiang/][OpenWrt教程]]                        |                                | https://github.com/softwaredownload/openwrt-fanqiang                  |             |
-| [[http://yeasy.gitbooks.io/docker_practice/content/][Docker —— 从入门到实践]]             | [[https://github.com/yeasy][yeasy]]                          | https://github.com/yeasy/docker_practice                              |             |
 * 离线阅读
 
 把地址clone到Marboo目录下，即可在Marboo中离线阅读 :)
