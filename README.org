@@ -33,7 +33,10 @@
 | [[http://inthecloud.readthedocs.org/][In the Cloud(一本云计算入门手册)]]   | lofyer                         | https://github.com/lofyer/InTheCloud                                  |                   |
 | [[https://github.com/royguo/ml_hackers/blob/master/list.md][Machine Learning For Hackers中文版]] | royguo                         | https://github.com/royguo/ml_hackers                                  |                   |
 | [[http://softwaredownload.gitbooks.io/openwrt-fanqiang/][OpenWrt教程]]                        |                                | https://github.com/softwaredownload/openwrt-fanqiang                  |                   |
-
+* 在线阅读平台
+** [[https://www.gitbook.io/][gitbook]]
+** [[https://leanpub.com/][leanpub]]
+** [[https://readthedocs.org/][ReadTheDocs]]
 * 离线阅读
 
 把地址clone到Marboo目录下，即可在Marboo中离线阅读 :)
@@ -54,7 +57,6 @@ git clone https://github.com/astaxie/build-web-application-with-golang ~/Marboo/
 [[./images/swift.png]]
 
 * References
-- [[https://readthedocs.org/][ReadTheDocs]]
 - http://www.oschina.net/project/tag/400/opensource-book
 - https://github.com/PlayTimeline/iS_free_book
 - [[http://www.gitchina.org/industry-information/%E5%85%8D%E8%B4%B9%E7%9A%84%E7%BC%96%E7%A8%8B%E4%B8%AD%E6%96%87%E4%B9%A6%E7%B1%8D%E7%B4%A2%E5%BC%95.html][免费的编程中文书籍索引]]
