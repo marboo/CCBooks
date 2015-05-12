@@ -55,14 +55,18 @@ mkdir ~/Marboo/CC-Books
 git clone https://github.com/astaxie/build-web-application-with-golang ~/Marboo/CC-Books
 #+END_SRC
 
-
-[[./images/backbone.js.png]]
-[[./images/go.png]]
 [[./images/goweb.png]]
+[[./images/go.png]]
+[[./images/backbone.js.png]]
+[[./images/git-flow.png]]
+[[./images/django.png]]
 [[./images/iOSBlogCN.png]]
 [[./images/node.js.png]]
+[[./images/json-api.png]]
+[[./images/nginx.png]]
 [[./images/objcio.png]]
 [[./images/swift.png]]
+[[./images/ccbooks.png]]
 
 * References
 - [[https://github.com/nemoTyrant/free-programming-books/blob/master/free-programming-books-zh.md][Free Programming Books]]
