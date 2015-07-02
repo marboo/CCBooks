@@ -4,43 +4,95 @@
 #+DATE: 2014-07-21 11:27:08
 #+OPTIONS: ^:{}
 
+- http://www.pythondoc.com/flask-restful/index.html
+
+* API
 | 名称                                  | 作(译)者                    | 地址                                                                | 程序语言      |
 |-----------------------------------------+--------------------------------+-----------------------------------------------------------------------+-------------------|
 | [[http://jsonapi.org.cn][用 JSON 构建 API 的标准指南]]     | [[http://github.com/justjavac][justjavac(迷渡)]] [[http://github.com/bornkiller][bornkiller]]   | https://github.com/justjavac/json-api-zh_CN                           | JSON              |
-| [[https://github.com/nixzhu/dev-blog][一些iOS/Web开发相关的翻译或原创博客文章]] | [[https://github.com/nixzhu][nixzhu]]                         | https://github.com/nixzhu/dev-blog                                    |                   |
-| [[https://github.com/hzlzh/Best-App][Best App]]                                | [[https://github.com/hzlzh][hzlzh]]                          | https://github.com/hzlzh/Best-App                                     |                   |
+
+* Algorithm
+| 名称                                  | 作(译)者                    | 地址                                                                | 程序语言      |
+|-----------------------------------------+--------------------------------+-----------------------------------------------------------------------+-------------------|
+| [[http://sicp.readthedocs.org/][SICP 解题集]]                          | 黄健宏                      | https://github.com/huangz1990/SICP-answers                            |                   |
+| [[http://algoviz.org/OpenDSA/][数据结构和算法教程 OpenDSA(英文版)]] |                                | https://github.com/OpenDSA/OpenDSA                                    |                   |
+
+* Git
+| 名称                                  | 作(译)者                    | 地址                                                                | 程序语言      |
+|-----------------------------------------+--------------------------------+-----------------------------------------------------------------------+-------------------|
 | [[http://igit.linuxtoy.org/index.html][沉浸式学 Git]]                        | [[https://github.com/xuxiaodong][徐小东]]                      | https://github.com/xuxiaodong/gitimmersion                            | Git               |
-| [[http://aaaaaashu.gitbooks.io/mac-dev-setup/content/][Mac 开发配置手册]]                  | [[http://aaaaaashu.me/][Ashu]]                           | https://github.com/Aaaaaashu/Mac-dev-setup                            |                   |
-| [[https://www.gitbook.com/book/justinyim/osxhig/details][OS X 系统界面指南]]                 | Justin Yim                     |                                                                       |                   |
-| [[http://zh-sphinx-doc.readthedocs.org/en/latest/][Sphinx 使用手册]]                     | [[https://github.com/xunxuny][xunxuny]]                        | https://github.com/xunxuny/zh-sphinx-doc                              | reStructured Text |
-| [[http://www.widuu.com/chinese_docker/index.html][Docker中文指南]]                      | [[https://github.com/widuu][widuu]]                          | https://github.com/widuu/chinese_docker                               |                   |
-| [[http://yeasy.gitbooks.io/docker_practice/content/][Docker —— 从入门到实践]]            | [[https://github.com/yeasy][yeasy]]                          | https://github.com/yeasy/docker_practice                              |                   |
-| [[https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial/blob/master/Table-of-contents.md][C++ 并发编程指南]]                  | [[https://github.com/forhappy][forhappy]]                       | https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial | C++               |
+| [[http://git-scm.com/book/][Pro Git]]                                 |                                | https://github.com/progit/progit                                      | Git               |
+| [[http://gitbook.liuhui998.com/][Git Community Book 中文版]]            | liuhui                         | https://github.com/liuhui998/gitbook                                  | Git               |
+
+
+* Go
+| 名称                                  | 作(译)者                    | 地址                                                                | 程序语言      |
+|-----------------------------------------+--------------------------------+-----------------------------------------------------------------------+-------------------|
 | [[https://github.com/astaxie/build-web-application-with-golang/blob/master/ebook/preface.md][Go Web 编程]]                           | [[https://github.com/astaxie][astaxie]]                        | https://github.com/astaxie/build-web-application-with-golang          | Go                |
 | Go编程基础                          | Unknwon                        | https://github.com/Unknwon/go-fundamental-programming                 | Go                |
 | [[https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/preface.md][Go入门指南]]                          | Unknwon                        | https://github.com/Unknwon/the-way-to-go_ZH_CN                        | Go                |
 | [[http://mikespook.com/learning-go/][学习 Go 语言]]                        |                                | https://github.com/mikespook/Learning-Go-zh-cn                        | Go                |
-| [[http://nqdeng.github.io/7-days-nodejs/][七天学会NodeJS]]                      | nqdeng                         | https://github.com/nqdeng/7-days-nodejs                               | Node.js           |
+
+* iOS/OSX
+
+| 名称                         | 作(译)者 | 地址                                                                  | 程序语言    |
+|------------------------------+----------+-----------------------------------------------------------------------+-------------|
+| [[http://numbbbbb.gitbooks.io/-the-swift-programming-language-/][中文版 Apple 官方 Swift 教程]] |          | https://github.com/numbbbbb/the-swift-programming-language-in-chinese | Swift       |
+| [[Swift 语言指南][http://dev.swiftguide.cn/]] |          |                                                                       | Swift       |
+| [[http://nshipster.cn/][NSHipster中文版]]              |          | https://github.com/NSHipster/nshipster.com                            | Obejctive-C |
+| [[https://github.com/hzlzh/Best-App][Best App]]                                | [[https://github.com/hzlzh][hzlzh]]                          | https://github.com/hzlzh/Best-App                                     |                   |
+| [[http://aaaaaashu.gitbooks.io/mac-dev-setup/content/][Mac 开发配置手册]]                  | [[http://aaaaaashu.me/][Ashu]]                           | https://github.com/Aaaaaashu/Mac-dev-setup                            |                   |
+| [[https://www.gitbook.com/book/justinyim/osxhig/details][OS X 系统界面指南]]                 | Justin Yim                     |                                                                       |                   |
+
+
+* Python
+
+| 名称                                  | 作(译)者                    | 地址                                                                | 程序语言      |
+|-----------------------------------------+--------------------------------+-----------------------------------------------------------------------+-------------------|
+| [[https://github.com/brantyoung/zh-django-best-practices/blob/master/readme.rst/][Django 最佳实践]]                     | brantyoung                     | https://github.com/brantyoung/zh-django-best-practices                | Python            |
+| [[http://pycoders-weekly-chinese.readthedocs.org/en/latest/][PyCoder’s Weekly 中文翻译]]           |                                | https://github.com/PyCodersCN/PyCodersCN                              | Python            |
+| [[http://zh-sphinx-doc.readthedocs.org/en/latest/][Sphinx 使用手册]]                     | [[https://github.com/xunxuny][xunxuny]]                        | https://github.com/xunxuny/zh-sphinx-doc                              | reStructured Text |
+
+
+* PHP
+
+| 名称                                  | 作(译)者                    | 地址                                                                | 程序语言      |
+|-----------------------------------------+--------------------------------+-----------------------------------------------------------------------+-------------------|
+| [[http://wulijun.github.io/php-the-right-way/][PHP之道]]                               | wulijun                        | https://github.com/wulijun/php-the-right-way                          | PHP               |
+| [[http://www.phptherightway.com/][PHP: The Right Way]]                      |                                | https://github.com/codeguy/php-the-right-way                          | PHP               |
+
+
+* System
+| 名称                                  | 作(译)者                    | 地址                                                                | 程序语言      |
+|-----------------------------------------+--------------------------------+-----------------------------------------------------------------------+-------------------|
+| [[http://www.widuu.com/chinese_docker/index.html][Docker中文指南]]                      | [[https://github.com/widuu][widuu]]                          | https://github.com/widuu/chinese_docker                               |                   |
+| [[http://yeasy.gitbooks.io/docker_practice/content/][Docker —— 从入门到实践]]            | [[https://github.com/yeasy][yeasy]]                          | https://github.com/yeasy/docker_practice                              |                   |
+| [[http://inthecloud.readthedocs.org/][In the Cloud(一本云计算入门手册)]] | lofyer                         | https://github.com/lofyer/InTheCloud                                  |                   |
+
+* Server
+| [[http://origin.redisbook.com/en/latest/][Redis 设计与实现]]                   | 黄建宏                      | https://github.com/huangz1990/redisbook                               |                   |
+| [[http://www.redisdoc.com/en/latest/][Redis Command Reference中文版]]        | 黄健宏                      | https://github.com/huangz1990/redis                                   |                   |
+| [[http://tengine.taobao.org/book/index.html][Nginx开发从入门到精通]]           | taobao                         | https://github.com/taobao/nginx-book                                  |                   |
+
+* Web
+
+| 名称                                  | 作(译)者                    | 地址                                                                | 程序语言      |
+|-----------------------------------------+--------------------------------+-----------------------------------------------------------------------+-------------------|
 | [[ http://bonsaiden.github.io/JavaScript-Garden/zh/][JavaScript 秘密花园]]                 | Ivo Wetzel(写作)和张易江(设计) | https://github.com/BonsaiDen/JavaScript-Garden                        | Javascript        |
 | [[http://yuedu.baidu.com/ebook/b7f0eaa44afe04a1b171de01][Backbone.js入门教程第二版]]        | the5fire                       | https://github.com/the5fire/backbonejs-learning-note                  | Javascript        |
 | [[https://leanpub.com/javascript-allonge/read][JavaScript Allongé]]                      | raganwald                      | https://github.com/raganwald/javascript-allonge                       | Javascript        |
-| [[http://numbbbbb.gitbooks.io/-the-swift-programming-language-/][中文版 Apple 官方 Swift 教程]]     |                                | https://github.com/numbbbbb/the-swift-programming-language-in-chinese | Swift             |
-| [[http://nshipster.cn/][NSHipster中文版]]                      |                                | https://github.com/NSHipster/nshipster.com                            | Obejctive-C       |
-| [[http://wulijun.github.io/php-the-right-way/][PHP之道]]                               | wulijun                        | https://github.com/wulijun/php-the-right-way                          | PHP               |
-| [[http://www.phptherightway.com/][PHP: The Right Way]]                      |                                | https://github.com/codeguy/php-the-right-way                          | PHP               |
-| [[https://github.com/brantyoung/zh-django-best-practices/blob/master/readme.rst/][Django 最佳实践]]                     | brantyoung                     | https://github.com/brantyoung/zh-django-best-practices                | Python            |
-| [[http://pycoders-weekly-chinese.readthedocs.org/en/latest/][PyCoder’s Weekly 中文翻译]]           |                                | https://github.com/PyCodersCN/PyCodersCN                              | Python            |
-| [[http://git-scm.com/book/][Pro Git]]                                 |                                | https://github.com/progit/progit                                      | Git               |
-| [[http://gitbook.liuhui998.com/][Git Community Book 中文版]]            | liuhui                         | https://github.com/liuhui998/gitbook                                  | Git               |
-| [[http://origin.redisbook.com/en/latest/][Redis 设计与实现]]                   | 黄建宏                      | https://github.com/huangz1990/redisbook                               |                   |
-| [[http://www.redisdoc.com/en/latest/][Redis Command Reference中文版]]        | 黄健宏                      | https://github.com/huangz1990/redis                                   |                   |
-| [[http://sicp.readthedocs.org/][SICP 解题集]]                          | 黄健宏                      | https://github.com/huangz1990/SICP-answers                            |                   |
-| [[http://tengine.taobao.org/book/index.html][Nginx开发从入门到精通]]           | taobao                         | https://github.com/taobao/nginx-book                                  |                   |
-| [[http://algoviz.org/OpenDSA/][数据结构和算法教程 OpenDSA(英文版)]] |                                | https://github.com/OpenDSA/OpenDSA                                    |                   |
+| [[http://nqdeng.github.io/7-days-nodejs/][七天学会NodeJS]]                      | nqdeng                         | https://github.com/nqdeng/7-days-nodejs                               | Node.js           |
+| [[https://github.com/nixzhu/dev-blog][一些iOS/Web开发相关的翻译或原创博客文章]] | [[https://github.com/nixzhu][nixzhu]]                         | https://github.com/nixzhu/dev-blog                                    |                   |
+
+* 其他
+
+| 名称                                  | 作(译)者                    | 地址                                                                | 程序语言      |
+|-----------------------------------------+--------------------------------+-----------------------------------------------------------------------+-------------------|
+| [[https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial/blob/master/Table-of-contents.md][C++ 并发编程指南]]                  | [[https://github.com/forhappy][forhappy]]                       | https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial | C++               |
 | [[ http://natureofcode.com/][The Nature of Code]]                      | shiffman                       | https://github.com/shiffman/The-Nature-of-Code                        |                   |
-| [[http://inthecloud.readthedocs.org/][In the Cloud(一本云计算入门手册)]] | lofyer                         | https://github.com/lofyer/InTheCloud                                  |                   |
 | [[https://github.com/royguo/ml_hackers/blob/master/list.md][Machine Learning For Hackers中文版]]   | royguo                         | https://github.com/royguo/ml_hackers                                  |                   |
 | [[http://softwaredownload.gitbooks.io/openwrt-fanqiang/][OpenWrt教程]]                           |                                | https://github.com/softwaredownload/openwrt-fanqiang                  |                   |
+
 * 在线阅读平台
 - [[https://www.gitbook.com/][GitBook]]
 - [[https://leanpub.com/][leanpub]]
