@@ -4,12 +4,12 @@
 #+DATE: 2014-07-21 11:27:08
 #+OPTIONS: ^:{}
 
-- http://www.pythondoc.com/flask-restful/index.html
-
 * API
-| 名称                                  | 作(译)者                    | 地址                                                                | 程序语言      |
-|-----------------------------------------+--------------------------------+-----------------------------------------------------------------------+-------------------|
-| [[http://jsonapi.org.cn][用 JSON 构建 API 的标准指南]]     | [[http://github.com/justjavac][justjavac(迷渡)]] [[http://github.com/bornkiller][bornkiller]]   | https://github.com/justjavac/json-api-zh_CN                           | JSON              |
+| 名称                         | 作(译)者                   | 地址                                           | 程序语言 |
+|------------------------------+----------------------------+------------------------------------------------+----------|
+| [[http://jsonapi.org.cn][用 JSON 构建 API 的标准指南]]  | [[http://github.com/justjavac][justjavac(迷渡)]] [[http://github.com/bornkiller][bornkiller]] | https://github.com/justjavac/json-api-zh_CN    | JSON     |
+| [[https://github.com/flask-restful/flask-restful][Flask-RESTful]]                |                            | https://github.com/flask-restful/flask-restful |          |
+| [[http://www.pythondoc.com/flask-restful/index.html][使用 Flask 设计 RESTful APIs]] |                            |                                                |          |
 
 * Algorithm
 | 名称                                  | 作(译)者                    | 地址                                                                | 程序语言      |
