@@ -35,14 +35,16 @@
 
 * iOS/OSX
 
-| 名称                         | 作(译)者 | 地址                                                                  | 程序语言    |
-|------------------------------+----------+-----------------------------------------------------------------------+-------------|
-| [[http://numbbbbb.gitbooks.io/-the-swift-programming-language-/][中文版 Apple 官方 Swift 教程]] |          | https://github.com/numbbbbb/the-swift-programming-language-in-chinese | Swift       |
-| [[Swift 语言指南][http://dev.swiftguide.cn/]] |          |                                                                       | Swift       |
-| [[http://nshipster.cn/][NSHipster中文版]]              |          | https://github.com/NSHipster/nshipster.com                            | Obejctive-C |
-| [[https://github.com/hzlzh/Best-App][Best App]]                                | [[https://github.com/hzlzh][hzlzh]]                          | https://github.com/hzlzh/Best-App                                     |                   |
-| [[http://aaaaaashu.gitbooks.io/mac-dev-setup/content/][Mac 开发配置手册]]                  | [[http://aaaaaashu.me/][Ashu]]                           | https://github.com/Aaaaaashu/Mac-dev-setup                            |                   |
-| [[https://www.gitbook.com/book/justinyim/osxhig/details][OS X 系统界面指南]]                 | Justin Yim                     |                                                                       |                   |
+| 名称                                             | 作(译)者      | 地址                                                                  | 程序语言    |
+|--------------------------------------------------+---------------+-----------------------------------------------------------------------+-------------|
+| [[https://github.com/oa414/objc-zen-book-cn][禅与 Objective-C 编程艺术]]                        | [[http://linxiangyu.org][林翔宇]]、[[https://github.com/heistings][庞博]]  | https://github.com/oa414/objc-zen-book-cn                             | Objective-C |
+| [[https://github.com/objc-zen/objc-zen-book][Zen and the Art of the Objective-C Craftsmanship]] | [[http://lucabernardi.com][Luca Bernardi]] | https://github.com/objc-zen/objc-zen-book                             | Objective-C |
+| [[http://numbbbbb.gitbooks.io/-the-swift-programming-language-/][中文版 Apple 官方 Swift 教程]]                     |               | https://github.com/numbbbbb/the-swift-programming-language-in-chinese | Swift       |
+| [[Swift 语言指南][http://dev.swiftguide.cn/]]                        |               |                                                                       | Swift       |
+| [[http://nshipster.cn/][NSHipster中文版]]                                  |               | https://github.com/NSHipster/nshipster.com                            | Obejctive-C |
+| [[https://github.com/hzlzh/Best-App][Best App]]                                         | [[https://github.com/hzlzh][hzlzh]]         | https://github.com/hzlzh/Best-App                                     |             |
+| [[http://aaaaaashu.gitbooks.io/mac-dev-setup/content/][Mac 开发配置手册]]                                 | [[http://aaaaaashu.me/][Ashu]]          | https://github.com/Aaaaaashu/Mac-dev-setup                            |             |
+| [[https://www.gitbook.com/book/justinyim/osxhig/details][OS X 系统界面指南]]                                | Justin Yim    |                                                                       |             |
 
 
 * Python
