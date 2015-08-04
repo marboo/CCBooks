@@ -1,0 +1,76 @@
+#+TITLE: 开源著作本地索引
+#+AUTHOR: amoblin
+#+EMAIL: amoblin@gmail.com
+#+DATE: <2015-07-29 21:23:37>
+#+OPTIONS: ^:{}
+# This file is created by Marboo<http://marboo.io> template file $MARBOO_HOME/.media/starts/default.org
+# 本文件由 Marboo<http://marboo.io> 模板文件 $MARBOO_HOME/.media/starts/default.org 创建
+
+* Books
+| 标题                                  | 生成器                           |
+|---------------------------------------+-------------------------------|
+| [[Books/chinese_docker/README.md][Docker中文指南]]                        | GitBook                       |
+| [[Books/docker_practice/README.md][Docker 从入门到实践]]                   | GitBook                       |
+| [[Books/gitbook-howareyoutaiwan-2/README.md][你好，台湾]]                            | GitBook                       |
+| [[Books/gitbook-Mac-dev-setup/README.md][Mac开发配置手册]]                       | GitBook                       |
+| [[Books/gitbook-mac-osx-for-newbie-books/README.md][Mac OSX新手入门]]                       | GitBook                       |
+| [[Books/gitbook-zh/README.md][Gitbook使用入门]]                       | GitBook                       |
+| [[Books/the-swift-programming-language-in-chinese/source/README.md][The Swift Programming Language中文版]]  | GitBook                       |
+| [[Books/ios_core_animation_advanced_techniques/README.md][iOS Core Animation中文译本]]            | GitBook                       |
+| [[Books/openwrt-fanqiang/README.md][OpenWrt智能、自动、透明翻墙路由器教程]] | GitBook                       |
+| [[Books/objccn-articles/README.md][objc.io中文版]]                         | GitBook                       |
+| [[Books/InTheCloud/source/index.rst][In the Cloud]]                          | Sphinx                        |
+| [[Books/zh-sphinx-doc/index.rst][zh shpinx doc]]                         | Sphinx                        |
+| [[Books/redis/index.rst][Redis命令参考]]                         | Sphinx                        |
+| [[Books/nginx-book/source/index.rst][nginx book]]                            | Sphinx                        |
+| [[Books/acl-chinese/index.rst][ANSI Common Lisp 中文翻譯版]]           | Sphinx                        |
+| [[Books/mickwiki/index.wiki][mick wiki]]                             | VimWiki                       |
+| [[Books/the-isz-vimwiki/index.wiki][the isz vimwiki]]                       | VimWiki                       |
+| [[Books/vimwiki/wiki/index.wiki][vimwiki]]                               | VimWiki                       |
+| [[Books/wzTian_vimwiki/index.wiki][wzTian wiki]]                           | Vimwiki                       |
+| [[Books/json-api-zh_CN/index.md][json api]]                              | Jekyll                        |
+| [[Books/coffeescript-cookbook.github.com/index.html][CoffeeScript Cookbook]]                 | Jekyll，使用的GitBook风格模板 |
+| [[Books/jstutorial/index.md][JavaScript 标准参考教程]]               | Jekyll                        |
+| [[Books/amoblin-wiki/home.md][amoblin wiki]]                          | Gollum                        |
+| [[Books/iOSBlogCN/README.md][中文 iOS/Mac 开发博客列表]]             | Simple                        |
+
+
+* Blogs
+| 标题                 | 生成器                   |                             |
+|----------------------+--------------------------+-----------------------------|
+| [[Books/gitbook-kxxoling-blog/README.md][kxxoling blog]]        | GitBook                  |                             |
+| [[Books/gotgit.github.com/index.html][蒋鑫博客]]             | Jekyll                   |                             |
+| [[Blogs/jekyll-cellier.github.io/index.html][cellier blog]]         | Jekyll                   |                             |
+| [[Blogs/wenbinye.github.com/index.html][叶文彬]]               | Jekyll                   |                             |
+| [[Blogs/wuchong.github.io/index.html][伍翀]]                 | Jekyll，无源码。     |                             |
+| [[Blogs/hexo.io/source/index.jade][hexo offical website]] | Hexo                     |                             |
+| [[Blogs/hexo-demo/source/_posts/hello-world.md][hexo demo]]            | Hexo                     |                             |
+| [[Blogs/ibireme.github.com/block.html][block的定义]]          | HTML                     |                             |
+| [[Blogs/mastering-emacs-in-one-year-guide/README.org][emacs高手指南]]        | Org mode                 |                             |
+| [[Blogs/org-page/README.org][org page]]             | org-mode                 |                             |
+| [[Blogs/org-page-kelvinh.github.com/index.html][kelvinh blog]]         | Simple, by org-page      |                             |
+| [[Blogs/orgmode-emacs-china.github.io/index.org][emacs china]]          |                          |                             |
+| [[Blogs/ruanyf-articles/2015/2015-07-26-monte-carlo-method.md][阮一峰]]               |                          | https://stackedit.io/editor |
+| [[Blogs/t2t-yszou.github.io/index.html][yszou]]                | t2t                      |                             |
+| [[Blogs/southpeak.github.com/index.html][南峰子的技术博客]]     | Simple                   |                             |
+| [[Blogs/hexo-seniorzhai.github.io/index.html][seniorzhai blog]]      | Simple                   |                             |
+| [[Blogs/hexo-sheilacat.github.io/index.html][sheilacat blog]]       | Simple                   |                             |
+
+
+| [[gotgithub/index.rst][Got GitHub]]     | Sphinx，build失败           |   |
+| [[Blogs/harttle.github.io/index.html][harttle blog]]   | Jekyll，build失败           |   |
+| [[Blogs/octopress-docs/source/index.html][Octopress docs]] | Octopress，build失败        |   |
+| [[Books/build-web-application-with-golang/zh/README.md][Go Web编程]]     | GitBook，编译失败      |   |
+| [[Blogs/opskumu.github.io/index.html][opskumu blog]]   | Jekyll，丢失时间信息        |   |
+| [[Books/gitimmersion/index.html][沉浸式学Git]]    | Jekyll，丢失时间信息        |   |
+| [[Blogs/panxw.github.com/index.html][panxw blog]]     | Jekyll，有category，待支持  |   |
+| [[Blogs/jekyll-icindy.github.io/index.html][icindy blog]]    | Jekyll，有category，待支持  |   |
+| [[Blogs/joway.github.com/blog.html][joway blog]]     | Jekyll，链接指向外部        |   |
+| [[Blogs/jekyll-ibrother.github.io/index.html][ibrother blog]]  | Jekyll，链接指向外部        |   |
+
+| [[Books/gotgit/index.md][World Hello]]               | Jekyll                      |
+| [[Books/git-flow-cheatsheet/index.zh_CN.html][git-flow备忘清单]]          | HTML                        |
+| [[Books/7-days-nodejs/index.html][七天学会NodeJS]]            | Simple                      |
+| [[Books/backbonejs-learning-note/README.rst][Backbone.js入门教程第二版]] |                             |
+| [[Books/Best-App/README.md][Best App]]                  |                             |
+ 

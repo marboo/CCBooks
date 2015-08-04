@@ -17,6 +17,9 @@
 | [[http://sicp.readthedocs.org/][SICP 解题集]]                          | 黄健宏                      | https://github.com/huangz1990/SICP-answers                            |                   |
 | [[http://algoviz.org/OpenDSA/][数据结构和算法教程 OpenDSA(英文版)]] |                                | https://github.com/OpenDSA/OpenDSA                                    |                   |
 
+* Emacs
+git@github.com:emacs-china/hello-emacs.git
+
 * Git
 | 名称                                  | 作(译)者                    | 地址                                                                | 程序语言      |
 |-----------------------------------------+--------------------------------+-----------------------------------------------------------------------+-------------------|
@@ -37,6 +40,8 @@
 
 | 名称                                             | 作(译)者      | 地址                                                                  | 程序语言    |
 |--------------------------------------------------+---------------+-----------------------------------------------------------------------+-------------|
+| [[https://github.com/ipader/SwiftGuide][Swift Guide]]                                      |               | https://github.com/ipader/SwiftGuide                                  | Swift       |
+| [[https://github.com/samlaudev/Objective-C-Coding-Style][Objective-C编码规范]]                              |               | https://github.com/samlaudev/Objective-C-Coding-Style                 | Objective-C |
 | [[https://github.com/oa414/objc-zen-book-cn][禅与 Objective-C 编程艺术]]                        | [[http://linxiangyu.org][林翔宇]]、[[https://github.com/heistings][庞博]]  | https://github.com/oa414/objc-zen-book-cn                             | Objective-C |
 | [[https://github.com/objc-zen/objc-zen-book][Zen and the Art of the Objective-C Craftsmanship]] | [[http://lucabernardi.com][Luca Bernardi]] | https://github.com/objc-zen/objc-zen-book                             | Objective-C |
 | [[http://numbbbbb.gitbooks.io/-the-swift-programming-language-/][中文版 Apple 官方 Swift 教程]]                     |               | https://github.com/numbbbbb/the-swift-programming-language-in-chinese | Swift       |
@@ -76,15 +81,17 @@
 | [[http://www.redisdoc.com/en/latest/][Redis Command Reference中文版]]        | 黄健宏                      | https://github.com/huangz1990/redis                                   |                   |
 | [[http://tengine.taobao.org/book/index.html][Nginx开发从入门到精通]]           | taobao                         | https://github.com/taobao/nginx-book                                  |                   |
 
-* Web
+* FrontEnd
 
-| 名称                                  | 作(译)者                    | 地址                                                                | 程序语言      |
-|-----------------------------------------+--------------------------------+-----------------------------------------------------------------------+-------------------|
-| [[ http://bonsaiden.github.io/JavaScript-Garden/zh/][JavaScript 秘密花园]]                 | Ivo Wetzel(写作)和张易江(设计) | https://github.com/BonsaiDen/JavaScript-Garden                        | Javascript        |
-| [[http://yuedu.baidu.com/ebook/b7f0eaa44afe04a1b171de01][Backbone.js入门教程第二版]]        | the5fire                       | https://github.com/the5fire/backbonejs-learning-note                  | Javascript        |
-| [[https://leanpub.com/javascript-allonge/read][JavaScript Allongé]]                      | raganwald                      | https://github.com/raganwald/javascript-allonge                       | Javascript        |
-| [[http://nqdeng.github.io/7-days-nodejs/][七天学会NodeJS]]                      | nqdeng                         | https://github.com/nqdeng/7-days-nodejs                               | Node.js           |
-| [[https://github.com/nixzhu/dev-blog][一些iOS/Web开发相关的翻译或原创博客文章]] | [[https://github.com/nixzhu][nixzhu]]                         | https://github.com/nixzhu/dev-blog                                    |                   |
+| 名称                                    | 作(译)者                       | 地址                                                                       | 程序语言   |
+|-----------------------------------------+--------------------------------+----------------------------------------------------------------------------+------------|
+| [[https://github.com/W3cplus/sass-guidelines][Sass Guidelines中文版本]]                 |                                | https://github.com/W3cplus/sass-guidelines                                 | Sass       |
+| [[https://www.gitbook.com/book/checkcheckzz/angularjs-learning-notes/details][AngularJS学习笔记]]                       |                                | https://www.gitbook.com/book/checkcheckzz/angularjs-learning-notes/details | JavaScript |
+| [[ http://bonsaiden.github.io/JavaScript-Garden/zh/][JavaScript 秘密花园]]                     | Ivo Wetzel(写作)和张易江(设计) | https://github.com/BonsaiDen/JavaScript-Garden                             | JavaScript |
+| [[http://yuedu.baidu.com/ebook/b7f0eaa44afe04a1b171de01][Backbone.js入门教程第二版]]               | the5fire                       | https://github.com/the5fire/backbonejs-learning-note                       | JavaScript |
+| [[https://leanpub.com/javascript-allonge/read][JavaScript Allongé]]                      | raganwald                      | https://github.com/raganwald/javascript-allonge                            | JavaScript |
+| [[http://nqdeng.github.io/7-days-nodejs/][七天学会NodeJS]]                          | nqdeng                         | https://github.com/nqdeng/7-days-nodejs                                    | Node.js    |
+| [[https://github.com/nixzhu/dev-blog][一些iOS/Web开发相关的翻译或原创博客文章]] | [[https://github.com/nixzhu][nixzhu]]                         | https://github.com/nixzhu/dev-blog                                         |            |
 
 * 其他
 
