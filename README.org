@@ -109,25 +109,20 @@ git@github.com:emacs-china/hello-emacs.git
 * 离线阅读
 
 把地址clone到Marboo目录下，即可在Marboo中离线阅读 :)
-Marboo Mac App Store下载地址：<https://itunes.apple.com/cn/app/marboo/id880375426?mt=12>
+Marboo Pro(付费版) Mac App Store下载地址：<https://itunes.apple.com/cn/app/marboo-pro/id1010557319?mt=12>
+Marboo Mac App Store 下载地址：<https://itunes.apple.com/cn/app/marboo/id880375426?mt=12>
 
 #+BEGIN_SRC sh
 mkdir ~/Marboo/CC-Books
 git clone https://github.com/astaxie/build-web-application-with-golang ~/Marboo/CC-Books
 #+END_SRC
 
-[[./images/goweb.png]]
-[[./images/go.png]]
-[[./images/backbone.js.png]]
-[[./images/git-flow.png]]
-[[./images/django.png]]
-[[./images/iOSBlogCN.png]]
-[[./images/node.js.png]]
-[[./images/json-api.png]]
-[[./images/nginx.png]]
-[[./images/objcio.png]]
-[[./images/swift.png]]
-[[./images/ccbooks.png]]
+[[./images/marboo-go.png]]
+[[./images/marboo-json-api.png]]
+[[./images/marboo-swift.png]]
+[[./images/marboo-sphinx.png]]
+[[./images/marboo-docker.png]]
+[[./images/marboo-coffeescript.png]]
 
 * References
 - [[https://github.com/nemoTyrant/free-programming-books/blob/master/free-programming-books-zh.md][Free Programming Books]]
