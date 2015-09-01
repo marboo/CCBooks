@@ -92,6 +92,7 @@ git@github.com:emacs-china/hello-emacs.git
 | [[https://leanpub.com/javascript-allonge/read][JavaScript Allongé]]                      | raganwald                      | https://github.com/raganwald/javascript-allonge                            | JavaScript |
 | [[http://nqdeng.github.io/7-days-nodejs/][七天学会NodeJS]]                          | nqdeng                         | https://github.com/nqdeng/7-days-nodejs                                    | Node.js    |
 | [[https://github.com/nixzhu/dev-blog][一些iOS/Web开发相关的翻译或原创博客文章]] | [[https://github.com/nixzhu][nixzhu]]                         | https://github.com/nixzhu/dev-blog                                         |            |
+|[[http://li-xinyang.gitbooks.io/frontend-notebook/content/][前端开发笔记本]]|[[https://github.com/li-xinyang][Li Xinyang]]|[[https://github.com/li-xinyang/FEND_Note]]|
 
 * 其他
 
