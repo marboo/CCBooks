@@ -83,9 +83,9 @@
 
 |                                                    |         |   |
 |----------------------------------------------------+---------+---|
-| /Users/amoblin/Marboo/CCBooks/es6tutorial          | 未知    |   |
-| /Users/amoblin/Marboo/CCBooks/developer.github.com | nanoc   |   |
-| /Users/amoblin/Marboo/CCBooks/nanoc.ws             | nanoc   |   |
+| /CCBooks/es6tutorial                               | 未知    |   |
+| /CCBooks/developer.github.com                      | nanoc   |   |
+| /CCBooks/nanoc.ws                                  | nanoc   |   |
 
 
 

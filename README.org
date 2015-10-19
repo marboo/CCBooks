@@ -82,9 +82,9 @@ git@github.com:emacs-china/hello-emacs.git
 | [[http://tengine.taobao.org/book/index.html][Nginx开发从入门到精通]]           | taobao                         | https://github.com/taobao/nginx-book                                  |                   |
 
 * FrontEnd
-
 | 名称                                    | 作(译)者                       | 地址                                                                       | 程序语言   |
 |-----------------------------------------+--------------------------------+----------------------------------------------------------------------------+------------|
+| [[https://davidcai1993.gitbooks.io/nodejs-api-doc-in-chinese/content/][Node.js API 中文文档]]                    | [[https://github.com/DavidCai1993][DavidCai]]                       | https://github.com/DavidCai1993/nodejs-api-doc                             | Node.js    |
 | [[https://github.com/W3cplus/sass-guidelines][Sass Guidelines中文版本]]                 |                                | https://github.com/W3cplus/sass-guidelines                                 | Sass       |
 | [[https://www.gitbook.com/book/checkcheckzz/angularjs-learning-notes/details][AngularJS学习笔记]]                       |                                | https://www.gitbook.com/book/checkcheckzz/angularjs-learning-notes/details | JavaScript |
 | [[ http://bonsaiden.github.io/JavaScript-Garden/zh/][JavaScript 秘密花园]]                     | Ivo Wetzel(写作)和张易江(设计) | https://github.com/BonsaiDen/JavaScript-Garden                             | JavaScript |
