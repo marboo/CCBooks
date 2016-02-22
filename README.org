@@ -21,11 +21,13 @@
 git@github.com:emacs-china/hello-emacs.git
 
 * Git
-| 名称                                  | 作(译)者                    | 地址                                                                | 程序语言      |
-|-----------------------------------------+--------------------------------+-----------------------------------------------------------------------+-------------------|
-| [[http://igit.linuxtoy.org/index.html][沉浸式学 Git]]                        | [[https://github.com/xuxiaodong][徐小东]]                      | https://github.com/xuxiaodong/gitimmersion                            | Git               |
-| [[http://git-scm.com/book/][Pro Git]]                                 |                                | https://github.com/progit/progit                                      | Git               |
-| [[http://gitbook.liuhui998.com/][Git Community Book 中文版]]            | liuhui                         | https://github.com/liuhui998/gitbook                                  | Git               |
+| 名称                      | 作(译)者 | 地址                                       | 程序语言 |
+|---------------------------+----------+--------------------------------------------+----------|
+| [[http://www.worldhello.net/gotgit/][Git权威指南]]               | [[http://weibo.com/gotgit][蒋鑫]]     | https://github.com/gotgit/gotgit/          | Git      |
+| [[http://igit.linuxtoy.org/index.html][沉浸式学 Git]]              | [[https://github.com/xuxiaodong][徐小东]]   | https://github.com/xuxiaodong/gitimmersion | Git      |
+| [[http://git-scm.com/book/][Pro Git]]                   |          | https://github.com/progit/progit           | Git      |
+| [[http://gitbook.liuhui998.com/][Git Community Book 中文版]] | liuhui   | https://github.com/liuhui998/gitbook       | Git      |
+| [[http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/][Git Magic]]                 |          | https://github.com/blynn/gitmagic          | Git      |
 
 
 * Go
