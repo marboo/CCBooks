@@ -11,6 +11,11 @@
 | [[https://github.com/flask-restful/flask-restful][Flask-RESTful]]                |                            | https://github.com/flask-restful/flask-restful |          |
 | [[http://www.pythondoc.com/flask-restful/index.html][使用 Flask 设计 RESTful APIs]] |                            |                                                |          |
 
+* Android
+| 名称                      | 作(译)者 | 地址                                                           | 程序语言 |
+|---------------------------+----------+----------------------------------------------------------------+----------|
+| [[http://hukai.me/android-training-course-in-chinese/][Android官方培训课程中文版]] | [[https://github.com/kesenhoo][HuKai]]    | https://github.com/kesenhoo/android-training-course-in-chinese | Java     |
+
 * Algorithm
 | 名称                                  | 作(译)者                    | 地址                                                                | 程序语言      |
 |-----------------------------------------+--------------------------------+-----------------------------------------------------------------------+-------------------|
