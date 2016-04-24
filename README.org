@@ -10,7 +10,6 @@
 | [[http://jsonapi.org.cn][用 JSON 构建 API 的标准指南]]  | [[http://github.com/justjavac][justjavac(迷渡)]] [[http://github.com/bornkiller][bornkiller]] | https://github.com/justjavac/json-api-zh_CN    | JSON     |
 | [[https://github.com/flask-restful/flask-restful][Flask-RESTful]]                |                            | https://github.com/flask-restful/flask-restful |          |
 | [[http://www.pythondoc.com/flask-restful/index.html][使用 Flask 设计 RESTful APIs]] |                            |                                                |          |
-
 * Android
 | 名称                      | 作(译)者 | 地址                                                           | 程序语言 |
 |---------------------------+----------+----------------------------------------------------------------+----------|
@@ -23,22 +22,21 @@
 | [[http://algoviz.org/OpenDSA/][数据结构和算法教程 OpenDSA(英文版)]] |                                | https://github.com/OpenDSA/OpenDSA                                    |                   |
 
 * Emacs
-git@github.com:emacs-china/hello-emacs.git
-
+https://github.com/emacs-china/hello-emacs
 * Git
-| 名称                      | 作(译)者 | 地址                                       | 程序语言 |
-|---------------------------+----------+--------------------------------------------+----------|
-| [[http://www.worldhello.net/gotgit/][Git权威指南]]               | [[http://weibo.com/gotgit][蒋鑫]]     | https://github.com/gotgit/gotgit/          | Git      |
-| [[http://igit.linuxtoy.org/index.html][沉浸式学 Git]]              | [[https://github.com/xuxiaodong][徐小东]]   | https://github.com/xuxiaodong/gitimmersion | Git      |
-| [[http://git-scm.com/book/][Pro Git]]                   |          | https://github.com/progit/progit           | Git      |
-| [[http://gitbook.liuhui998.com/][Git Community Book 中文版]] | liuhui   | https://github.com/liuhui998/gitbook       | Git      |
-| [[http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/][Git Magic]]                 |          | https://github.com/blynn/gitmagic          | Git      |
-
+| 名称                      | 作(译)者   | 地址                                                | 程序语言 |
+|---------------------------+------------+-----------------------------------------------------+----------|
+| [[http://www.worldhello.net/gotgit/][Git权威指南]]               | [[http://weibo.com/gotgit][蒋鑫]]       | https://github.com/gotgit/gotgit/                   | Git      |
+| [[http://igit.linuxtoy.org/index.html][沉浸式学 Git]]              | [[https://github.com/xuxiaodong][徐小东]]     | https://github.com/xuxiaodong/gitimmersion          | Git      |
+| [[http://git-scm.com/book/][Pro Git]]                   |            | https://github.com/progit/progit                    | Git      |
+| [[http://gitbook.liuhui998.com/][Git Community Book 中文版]] | liuhui     | https://github.com/liuhui998/gitbook                | Git      |
+| [[http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/][Git Magic]]                 |            | https://github.com/blynn/gitmagic                   | Git      |
+| [[https://chrisniael.gitbooks.io/gitbook-documentation/content/][GitBook文档（中文版）]]     | [[https://github.com/chrisniael][chrisniael]] | https://github.com/chrisniael/gitbook-documentation |          |
 
 * Go
 | 名称                                  | 作(译)者                    | 地址                                                                | 程序语言      |
 |-----------------------------------------+--------------------------------+-----------------------------------------------------------------------+-------------------|
-| [[https://github.com/astaxie/build-web-application-with-golang/blob/master/ebook/preface.md][Go Web 编程]]                           | [[https://github.com/astaxie][astaxie]]                        | https://github.com/astaxie/build-web-application-with-golang          | Go                |
+| [[https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md][Go Web 编程]]                              | [[https://github.com/astaxie][astaxie]]                        | https://github.com/astaxie/build-web-application-with-golang          | Go                |
 | Go编程基础                          | Unknwon                        | https://github.com/Unknwon/go-fundamental-programming                 | Go                |
 | [[https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/preface.md][Go入门指南]]                          | Unknwon                        | https://github.com/Unknwon/the-way-to-go_ZH_CN                        | Go                |
 | [[http://mikespook.com/learning-go/][学习 Go 语言]]                        |                                | https://github.com/mikespook/Learning-Go-zh-cn                        | Go                |
@@ -58,7 +56,6 @@ git@github.com:emacs-china/hello-emacs.git
 | [[http://aaaaaashu.gitbooks.io/mac-dev-setup/content/][Mac 开发配置手册]]                                 | [[http://aaaaaashu.me/][Ashu]]          | https://github.com/Aaaaaashu/Mac-dev-setup                            |             |
 | [[https://www.gitbook.com/book/justinyim/osxhig/details][OS X 系统界面指南]]                                | Justin Yim    |                                                                       |             |
 
-
 * Python
 
 | 名称                                  | 作(译)者                    | 地址                                                                | 程序语言      |
@@ -67,14 +64,12 @@ git@github.com:emacs-china/hello-emacs.git
 | [[http://pycoders-weekly-chinese.readthedocs.org/en/latest/][PyCoder’s Weekly 中文翻译]]           |                                | https://github.com/PyCodersCN/PyCodersCN                              | Python            |
 | [[http://zh-sphinx-doc.readthedocs.org/en/latest/][Sphinx 使用手册]]                     | [[https://github.com/xunxuny][xunxuny]]                        | https://github.com/xunxuny/zh-sphinx-doc                              | reStructured Text |
 
-
 * PHP
 
 | 名称                                  | 作(译)者                    | 地址                                                                | 程序语言      |
 |-----------------------------------------+--------------------------------+-----------------------------------------------------------------------+-------------------|
 | [[http://wulijun.github.io/php-the-right-way/][PHP之道]]                               | wulijun                        | https://github.com/wulijun/php-the-right-way                          | PHP               |
 | [[http://www.phptherightway.com/][PHP: The Right Way]]                      |                                | https://github.com/codeguy/php-the-right-way                          | PHP               |
-
 
 * System
 | 名称                                  | 作(译)者                    | 地址                                                                | 程序语言      |
@@ -102,14 +97,14 @@ git@github.com:emacs-china/hello-emacs.git
 |[[http://li-xinyang.gitbooks.io/frontend-notebook/content/][前端开发笔记本]]|[[https://github.com/li-xinyang][Li Xinyang]]|[[https://github.com/li-xinyang/FEND_Note]]|
 
 * 其他
-
 | 名称                               | 作(译)者 | 地址                                                                  | 程序语言 |
 |------------------------------------+----------+-----------------------------------------------------------------------+----------|
 | [[https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial/blob/master/Table-of-contents.md][C++ 并发编程指南]]                   | [[https://github.com/forhappy][forhappy]] | https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial | C++      |
 | [[ http://natureofcode.com/][The Nature of Code]]                 | shiffman | https://github.com/shiffman/The-Nature-of-Code                        |          |
 | [[https://github.com/royguo/ml_hackers/blob/master/list.md][Machine Learning For Hackers中文版]] | royguo   | https://github.com/royguo/ml_hackers                                  |          |
 | [[http://softwaredownload.gitbooks.io/openwrt-fanqiang/][OpenWrt教程]]                        |          | https://github.com/softwaredownload/openwrt-fanqiang                  |          |
-| [[amoblin.gitbooks.io/marboo-guide/content/zh-cn/index.html][Marboo用户指南]]                     | amoblin  | https://github.com/marboo/marboo-doc                                  |          | 
+| [[http://skill-map.stuq.org/][程序员技能图谱]]                     |          | https://github.com/TeamStuQ/skill-map                                 |          |
+| [[amoblin.gitbooks.io/marboo-guide/content/zh-cn/index.html][Marboo用户指南]]                     | amoblin  | https://github.com/marboo/marboo-doc                                  |          |
   
 * 在线阅读平台
 - [[https://www.gitbook.com/][GitBook]]
