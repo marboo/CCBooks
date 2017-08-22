@@ -97,15 +97,15 @@ https://github.com/emacs-china/hello-emacs
 |[[http://li-xinyang.gitbooks.io/frontend-notebook/content/][前端开发笔记本]]|[[https://github.com/li-xinyang][Li Xinyang]]|[[https://github.com/li-xinyang/FEND_Note]]|
 
 * 其他
-| 名称                               | 作(译)者 | 地址                                                                  | 程序语言 |
-|------------------------------------+----------+-----------------------------------------------------------------------+----------|
-| [[https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial/blob/master/Table-of-contents.md][C++ 并发编程指南]]                   | [[https://github.com/forhappy][forhappy]] | https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial | C++      |
-| [[ http://natureofcode.com/][The Nature of Code]]                 | shiffman | https://github.com/shiffman/The-Nature-of-Code                        |          |
-| [[https://github.com/royguo/ml_hackers/blob/master/list.md][Machine Learning For Hackers中文版]] | royguo   | https://github.com/royguo/ml_hackers                                  |          |
-| [[http://softwaredownload.gitbooks.io/openwrt-fanqiang/][OpenWrt教程]]                        |          | https://github.com/softwaredownload/openwrt-fanqiang                  |          |
-| [[http://skill-map.stuq.org/][程序员技能图谱]]                     |          | https://github.com/TeamStuQ/skill-map                                 |          |
-| [[amoblin.gitbooks.io/marboo-guide/content/zh-cn/index.html][Marboo用户指南]]                     | amoblin  | https://github.com/marboo/marboo-doc                                  |          |
-  
+| 名称                                                       | 作(译)者 | 地址                                                                  | 程序语言 |
+|------------------------------------------------------------+----------+-----------------------------------------------------------------------+----------|
+| [[https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial/blob/master/Table-of-contents.md][C++ 并发编程指南]]                                           | [[https://github.com/forhappy][forhappy]] | https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial | C++      |
+| [[ http://natureofcode.com/][The Nature of Code]]                                         | shiffman | https://github.com/shiffman/The-Nature-of-Code                        |          |
+| [[https://github.com/royguo/ml_hackers/blob/master/list.md][Machine Learning For Hackers中文版]]                         | royguo   | https://github.com/royguo/ml_hackers                                  |          |
+| [[http://softwaredownload.gitbooks.io/openwrt-fanqiang/][OpenWrt教程]]                                                |          | https://github.com/softwaredownload/openwrt-fanqiang                  |          |
+| [[http://skill-map.stuq.org/][程序员技能图谱]]                                             |          | https://github.com/TeamStuQ/skill-map                                 |          |
+| [[amoblin.gitbooks.io/marboo-guide/content/zh-cn/index.html][Marboo用户指南]]                                             | amoblin  | https://github.com/marboo/marboo-doc                                  |          |
+| [[https://github.com/skyline75489/what-happens-when-zh_CN][当你在浏览器中输入 google.com 并且按下回车之后发生了什么？]] |          | https://github.com/skyline75489/what-happens-when-zh_CN               |          |
 * 在线阅读平台
 - [[https://www.gitbook.com/][GitBook]]
 - [[https://leanpub.com/][leanpub]]
